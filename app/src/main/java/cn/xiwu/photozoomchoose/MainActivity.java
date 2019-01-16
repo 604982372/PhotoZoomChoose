@@ -1,4 +1,4 @@
-package cn.xiwu.photozoomchoose.ui;
+package cn.xiwu.photozoomchoose;
 
 import android.app.Activity;
 import android.os.Bundle;
